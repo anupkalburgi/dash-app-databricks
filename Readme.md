@@ -1,0 +1,2 @@
+Design Guide: https://medium.com/plotly/how-to-create-a-beautiful-interactive-dashboard-layout-in-python-with-plotly-dash-a45c57bb2f3c
+https://github.com/plotly/datasets/blob/master/dash-layout-tutorial/app.py

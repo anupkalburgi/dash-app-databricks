@@ -1,0 +1,6 @@
+--extra-index-url=https://dash-demo.plotly.host/Docs/packages
+dash-design-kit
+databricks-sqlalchemy
+dash-ag-grid
+python-dotenv
+dash_bootstrap_components
